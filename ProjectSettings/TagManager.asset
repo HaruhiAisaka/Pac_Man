@@ -41,3 +41,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 780513591
+    locked: 0
+  - name: MazeTile
+    uniqueID: 3989893933
+    locked: 0
+  - name: EdibleItems
+    uniqueID: 2293563165
+    locked: 0
+  - name: Ghost
+    uniqueID: 2138337273
+    locked: 0
+  - name: Player
+    uniqueID: 919446351
+    locked: 0
+  - name: UI
+    uniqueID: 3781943827
+    locked: 0
